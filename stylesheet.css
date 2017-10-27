@@ -1,0 +1,71 @@
+
+td {
+    padding: 15px;
+    text-align: center;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+}
+
+
+* {
+    font-family: "Times New Roman", Georgia, Garamond, serif;
+
+}
+#header {
+   color: purple;
+}
+
+#imgbox {
+    background-color:whitesmoke;
+}
+
+#about {
+    background-color: azure;
+}
+
+#personal-qualities {
+    background-color: linen;
+}
+.info {
+    padding: 12px 5px 18px 3px;
+    margin: 10px 20px 5px 1px;
+}
+
+.icon {
+    height: 80px;
+
+}
+.myphoto {
+    height:300px;
+    padding-top: 40px ;
+    text-align: center;
+}
+
+.uper {
+    text-align: center;
+}
+
+
+.box div {
+    display:inline-block;
+}
+
+.box {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight:800 ;
+    color: darkslategray;
+
+}
+
+.languages {
+    font-size: 23px;
+    margin-left: 30px;
+}
+
